@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678441954 source:d:\codeblocksprojects\strdlab1_strings\main.cpp
+	<iostream>
+	<cstring>
+
